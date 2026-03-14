@@ -1,0 +1,9 @@
+FSAD Skill 1 - Git Version Control
+
+Tasks Demonstrated:
+1. Initialized Git repository using git init
+2. Added files to staging using git add
+3. Committed files using git commit
+4. Created branches (feature-update, bug-fix)
+5. Merged branches into main
+6. Resolved merge conflicts if any
